@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mel-any
-- 🌱 I’m currently learning Symfony
+- 🌱 I’m currently learning Symfony and Angular
 
 <!---
 mel-any/mel-any is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
